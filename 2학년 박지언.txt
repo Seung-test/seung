@@ -1,0 +1,20 @@
+<IDOCTYPE html>
+<html>
+<head><title>셀 병합</title></head>
+<body>
+      <ul type="disk">
+           <li> 이&nbsp;&nbsp름: 박지언
+           <li> 성    별 : 남
+           <li> 전번(hp): 010-4547-0190
+      </ul><hr width = 30%, color= "#ff0000", align="left">
+<table border="1"brodercolor="blue"
+        align = "center" cellspaceing="2">
+ <caption><h4> 행/열합치기</h4></caption>
+ <thead><tr><th bgcolor = "yellow" colspan = "4"> 지역 물가비교 </th></th></thead>
+ <tfool><tr><tr>전국 평균</th><th colspan="3">0.28%</th></tfool>
+ <tbody>  <tr><th rowspan="2"> 상승% </th><th>서 울</th>
+                     <th> 인천  </th> <th> 부산 </th> </tr>
+          <tr><td>1.25% </td><td>0.89%</td> <td> 0.98%</td> </tr></tbody>
+</table>
+</body>
+<html>
